@@ -22,7 +22,7 @@ Demo GIF:
 ![App icon](https://ws4.sinaimg.cn/large/006tKfTcgy1fqfrmh1wgog315o0ngqv7.gif)
 
 将GoBACKSPACE添加到Finder工具栏的方法:
-![](https://ws2.sinaimg.cn/large/006tKfTcgy1fqfw6u4dttg31700ykhdy.gif)
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1fqfwji6347g30go0dekjm.gif)
 
 # License
 
