@@ -21,6 +21,9 @@ GoBACKSPACE for mac是一款OS X 系统文件查看器**Finder**(中文译为访
 Demo GIF:
 ![App icon](https://ws4.sinaimg.cn/large/006tKfTcgy1fqfrmh1wgog315o0ngqv7.gif)
 
+将GoBACKSPACE添加到Finder工具栏的方法:
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1fqfw6u4dttg31700ykhdy.gif)
+
 # License
 
 **MIT**
