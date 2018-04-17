@@ -27,3 +27,6 @@ Demo GIF:
 # License
 
 **MIT**
+
+# 致谢
+本项目参考了Github上的另一个项目![PathToGO](https://github.com/HansonStudio/PathToGo),应用的icon参考来自![flaticon](https://www.flaticon.com)，一并表示感谢。
